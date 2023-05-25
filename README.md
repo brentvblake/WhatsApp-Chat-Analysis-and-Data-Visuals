@@ -2,7 +2,7 @@
 
 This project transforms WhatsApp chat data into insightful visualizations. It includes features like a word cloud, a heatmap calendar showing when most messages occurred throughout the year, and a messages-per-user bar graph. I used Python libraries such as Pandas, Calmap, Matplotlib, WordCloud, and more to create these visualizations.
 
-![Header Image]("Example Outputs/Brent BlakeWordCloud.png")
+![Header Image](Example%20Outputs/Brent%20BlakeWordCloud.png)
 
 ## Project Overview
 
@@ -19,18 +19,17 @@ The main goal of this project was to analyze and visualize WhatsApp chat data to
 
 This word cloud represents the most frequently used words in the chat.
 
-![Word Cloud]("Example Outputs/Brent BlakeWordCloud.png")
+![Word Cloud](Example%20Outputs/Brent%20BlakeWordCloud.png)
 
 ### Heatmap Calendar
 
 This heatmap calendar shows when the most messages were sent throughout the year.
 
-![Heatmap Calendar]("Example Outputs/Brent Blakeyear.png")
+![Heatmap Calendar](Example%20Outputs/Brent%20Blakeyear.png)
 
 ### Messages Per User Bar Graph
 
 This bar graph illustrates the number of messages per user in the chat.
 
-![Messages Per User]("Example Outputs/Conversation Street.png")
-
+![Messages Per User](Example%20Outputs/Conversation%20Street.png)
 
