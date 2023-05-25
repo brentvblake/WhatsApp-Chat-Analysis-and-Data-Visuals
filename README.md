@@ -25,7 +25,7 @@ This word cloud represents the most frequently used words in the chat.
 
 This heatmap calendar shows when the most messages were sent throughout the year.
 
-![Heatmap Calendar](Example%20Outputs/Brent%20Blakeyear.png)
+![Heatmap Calendar](Example%20Outputs/Brent%20BlakeYear.png)
 
 ### Messages Per User Bar Graph
 
